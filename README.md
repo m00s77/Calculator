@@ -9,3 +9,8 @@ Added menu items (History and Help) where through history you can select previou
 
 It was a nice example to work a little bit with java.swing and java.awt.
 
+# Ant config file
+
+Added build.xml file for this project, to try and create our jar file.
+
+
