@@ -1,6 +1,6 @@
 # Java Gui Calculator
 
-[](images/Java-Gui-Calculator.PNG)
+![](images/Java-Gui-Calculator.PNG)
 
 This calculator has only one class, contains various methods and a single constructor
 This class extends the JFrame and implements the KeyListener, ActionListener was added to buttons.
